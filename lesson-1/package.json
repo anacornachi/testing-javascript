@@ -1,0 +1,20 @@
+{
+  "name": "testing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anacornachi/testing-javascript.git"
+  },
+  "author": "ana cornachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anacornachi/testing-javascript/issues"
+  },
+  "homepage": "https://github.com/anacornachi/testing-javascript#readme",
+  "dependencies": {
+    "node": "^17.4.0"
+  }
+}
